@@ -6,8 +6,9 @@ int main()
     //change the code
     int num = 1;
     while(num<=20){
-        multiple=num%3==0;
-        cout<<multiple<<endl;
+        if(num%3==0){
+            cout<<num<<endl;
+            }
         num+=1;
     }
     
