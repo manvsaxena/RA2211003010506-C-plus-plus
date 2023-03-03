@@ -7,7 +7,7 @@ int main() {
 
         //your code goes here
 
-        if(point>=90){
+        if(points>=90){
                 cout<<"pass"<<endl;
         }
         else{
